@@ -2,10 +2,10 @@
 
 ## Results
 #### Random Agent
-![random_agent](https://github.com/user-attachments/assets/25551140-d60e-496b-9a92-9e9461e2d896)
+![random_agent](https://github.com/changyeon2/Custom-made-Game-RL/blob/main/final_videos/Random_Agent.gif?raw=true)
 
 #### DQN Agent
-![DQN agent](https://github.com/user-attachments/assets/7a94e3c9-d954-4878-81c1-8ceabae70d93)
+![DQN agent](https://github.com/changyeon2/Custom-made-Game-RL/blob/main/final_videos/DQN_Final.gif?raw=true)
 
 #### Soft Q-Learning Agent
-![SQL agent](https://github.com/user-attachments/assets/e466405e-e4d5-403e-ad5a-35d96b0fce2c)
+![SQL agent](https://github.com/changyeon2/Custom-made-Game-RL/blob/main/final_videos/SQL_Final.gif?raw=true)
